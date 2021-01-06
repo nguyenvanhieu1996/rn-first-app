@@ -15,7 +15,7 @@
     "@reduxjs/toolkit": "^1.3.4",
     "@ui-kitten/components": "^5.0.0-alpha.1",
     "apisauce": "^1.1.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "expo": "~37.0.3",
     "novelcovid": "^1.1.4",
     "react": "~16.9.0",
